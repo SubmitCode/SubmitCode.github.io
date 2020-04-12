@@ -1,19 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 published: true
 ---
 
-## Carreer Profile
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-##  Experiences
-
--**Lead Datascientist** 
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My Name is Wilhelm Fritsche. Feel free to contact me if you have 
+qestions or share similar interests. If you want to know more about
+me check out my [CV](https://submitcode.github.io/online-cv/).
