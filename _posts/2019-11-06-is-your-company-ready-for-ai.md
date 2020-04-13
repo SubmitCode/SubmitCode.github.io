@@ -4,7 +4,8 @@ title: Is your company ready for AI?
 subtitle: Five Predictions for 2020–2021
 bigimg: /img/artificial-intelligence-4389372_1920.jpg
 published: true
-tags: [AI]
+tags:
+  - AI
 comments: true
 ---
 In data science, one part of our job is to make predictions preferably based on data. There’s this interesting website called gjopen.com (gj: good judgment). There, you can make predictions of future events. Their advice is that if you want to become a good forecaster, you should predict the future and learn from your mistakes. 
